@@ -1,12 +1,12 @@
 import avatar from '../assets/images/avatar.jpg';
-import hero from '../assets/images/hero.jpg';
+import hero from '../assets/images/hero.jpeg';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
     website: 'https://jdavidvega1709-cmd.github.io',
     avatar: {
         src: avatar,
-        alt: 'Ethan Donovan'
+        alt: 'Ethan Donovan'  
     },
     title: 'Dante',
     subtitle: 'Minimal Astro.js theme',
@@ -17,7 +17,7 @@ const siteConfig: SiteConfig = {
     },
     headerNavLinks: [
         {
-            text: 'Home',
+            text: 'Presentación',
             href: '/'
         },
         {
@@ -32,9 +32,7 @@ const siteConfig: SiteConfig = {
             text: 'Tags',
             href: '/tags'
         },
-        { text: 'Presentación',
-             href: '/presentacion'
-             }
+        
     ],
     footerNavLinks: [
         {
