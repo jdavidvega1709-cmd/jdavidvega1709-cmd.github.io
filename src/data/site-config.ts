@@ -69,7 +69,7 @@ const siteConfig: SiteConfig = {
         actions: [
             {
                 text: 'mi video de presentacion',
-                href: '/https://www.youtube.com/watch?v=m7YSTtiPMl4&t=1773s'
+                href: 'https://www.youtube.com/watch?v=m7YSTtiPMl4&t=1773s'
             }
         ]
     },
