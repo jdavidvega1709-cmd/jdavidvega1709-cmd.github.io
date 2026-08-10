@@ -32,6 +32,9 @@ const siteConfig: SiteConfig = {
             text: 'Tags',
             href: '/tags'
         }
+        { text: 'Presentación',
+             href: '/presentacion'
+             }
     ],
     footerNavLinks: [
         {
