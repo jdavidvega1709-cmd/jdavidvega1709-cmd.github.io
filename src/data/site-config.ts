@@ -1,5 +1,5 @@
 import avatar from '../assets/images/hero.jpeg';
-import modelo from '../assets/images/modeloentidadrelacion.jpeg';
+
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
@@ -74,10 +74,9 @@ const siteConfig: SiteConfig = {
     },
     {
         text: 'modelo',
-        href: modelo
+        href: '/modeloentidadrelacion.jpeg'
     }
 ]
-
     },
     subscribe: {
         enabled: true,
