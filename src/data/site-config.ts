@@ -1,5 +1,5 @@
 import avatar from '../assets/images/hero.jpeg';
-import modelo from '../assets/images/modelo entidad relacion.jpg';
+import modelo from '../assets/images/modeloentidadrelacion.jpeg';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
