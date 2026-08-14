@@ -77,7 +77,7 @@ const siteConfig: SiteConfig = {
         href: modelo
     }
 ]
-]
+
     },
     subscribe: {
         enabled: true,
