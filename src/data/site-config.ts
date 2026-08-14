@@ -1,4 +1,5 @@
 import avatar from '../assets/images/hero.jpeg';
+import modelo from '../assets/images/modelo entidad relacion.jpg';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
@@ -66,12 +67,17 @@ const siteConfig: SiteConfig = {
         title: 'Hi There & Welcome to My Corner of the Web!',
         text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence.\nMy approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products.\nI have a profound appreciation for top-notch software, visual design, and the principles of product-led growth.\n\nFeel free to explore some of my coding endeavors on [GitHub](https://github.com/JustGoodUI/dante-astro-theme) or follow me on [Twitter/X](https://twitter.com/justgoodui).",
         
-        actions: [
-            {
-                text: 'mi video de presentacion',
-                href: 'https://youtube.com/shorts/UkcjUe7zo14?si=5O_fGVkhhOunfkTh'
-            }
-        ]
+       actions: [
+    {
+        text: 'mi video de presentacion',
+        href: 'https://youtube.com/shorts/UkcjUe7zo14?si=5O_fGVkhhOunfkTh'
+    },
+    {
+        text: 'modelo',
+        href: modelo
+    }
+]
+]
     },
     subscribe: {
         enabled: true,
